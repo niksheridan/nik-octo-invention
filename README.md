@@ -1,4 +1,4 @@
-# Basic Example of Packaging a Python Application
+# Basic Reference Example of Packaging a Python Application
 
 This how to guide was taken from the following [reference](https://packaging.python.org/tutorials/installing-packages/).
 
@@ -30,3 +30,10 @@ python -m pip install setuptools wheel twine
 ```
 
 
+Now run this command from the same directory where setup.py is located:
+
+```bash
+python3 setup.py sdist bdist_wheel
+```
+
+Good quick reference for classes as well [here](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial/Classes)
