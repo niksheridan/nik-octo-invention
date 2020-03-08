@@ -82,7 +82,7 @@ https://test.pypi.org/project/nik-motd-niksheridan/0.0.1/
 (poc) nsheridan@srv1:~/code/packaging/nikpack$ 
 ```
 
-* IMPORTANT * When changing the version for a new release make sure you delete the exiting files in the ```<project>/build/dist```folder
+**IMPORTANT** When changing the version for a new release make sure you delete the exiting files in the ```<project>/build/dist```folder
 (see [reference link here](https://stackoverflow.com/questions/52700692/a-guide-for-updating-packages-on-pypi)), otherwise:
 
 ```bash

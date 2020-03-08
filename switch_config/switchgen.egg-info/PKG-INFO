@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: switchgen
-Version: 0.0.1
-Summary: A test package used to generate switch configurations from yaml definitions.
+Version: 0.0.5
+Summary: A test package used to generate switch configurations from yaml definitions, including dependencies.
 Home-page: https://github.com/niksheridan/nik-octo-invention
 Author: Nik Sheridan
 Author-email: nik.sheridan@gmail.com

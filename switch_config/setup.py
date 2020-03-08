@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="switchgen", # Replace with your own username
-    version="0.0.1",
+    version="0.0.5",
     author="Nik Sheridan",
     author_email="nik.sheridan@gmail.com",
-    description="A test package used to generate switch configurations from yaml definitions.",
+    description="A test package used to generate switch configurations from yaml definitions, including dependencies.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/niksheridan/nik-octo-invention",
@@ -19,4 +19,5 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
+    install_requires=['pyyaml','jinja2'],
 )
