@@ -17,6 +17,12 @@ https://docs.python.org/3/distributing/index.html
 
 https://docs.python.org/3/tutorial/modules.html#packages
 
+Using vscode: (see [here](https://code.visualstudio.com/docs/python/environments#_manually-specify-an-interpreter))
+
+```bash
+# create a virtual environment as follows
+python3 -m venv .venv
+```
 
 ## Start with a Clean Environemnt
 
