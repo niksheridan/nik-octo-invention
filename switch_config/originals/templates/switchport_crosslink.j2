@@ -1,0 +1,7 @@
+!
+interface {{ switchport }}
+  switchport trunk vlan native {{ native_vlan }}
+  switchport trunk vlan allowed {{ allowed_vlans }}
+  channel-group {{ channel_group }} mode active
+  switchport mode trunk
+!
