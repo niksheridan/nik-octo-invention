@@ -1,0 +1,8 @@
+README.md
+setup.py
+switch/__init__.py
+switch/switch.py
+switchgen.egg-info/PKG-INFO
+switchgen.egg-info/SOURCES.txt
+switchgen.egg-info/dependency_links.txt
+switchgen.egg-info/top_level.txt

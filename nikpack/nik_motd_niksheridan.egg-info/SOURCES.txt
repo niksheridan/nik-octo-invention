@@ -1,0 +1,8 @@
+README.md
+setup.py
+nik_motd/__init__.py
+nik_motd/nik_motd.py
+nik_motd_niksheridan.egg-info/PKG-INFO
+nik_motd_niksheridan.egg-info/SOURCES.txt
+nik_motd_niksheridan.egg-info/dependency_links.txt
+nik_motd_niksheridan.egg-info/top_level.txt

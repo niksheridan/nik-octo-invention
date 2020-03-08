@@ -4,11 +4,11 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="nik_motd-niksheridan", # Replace with your own username
-    version="0.0.2",
+    name="switchgen", # Replace with your own username
+    version="0.0.1",
     author="Nik Sheridan",
     author_email="nik.sheridan@gmail.com",
-    description="A test package used to obtain familiarity with packaging and not intended for real use.",
+    description="A test package used to generate switch configurations from yaml definitions.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/niksheridan/nik-octo-invention",
